@@ -278,6 +278,8 @@ export default function Home() {
         </div>
         <img className={styles.image} src="/cryptodevs/0.svg"></img>
       </div>
+
+      <footer className={styles.footer}>Made with &#10084; by Sk Sajid</footer>
     </div>
   );
 }
